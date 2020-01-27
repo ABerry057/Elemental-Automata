@@ -1,3 +1,7 @@
+# Elemental Automata
+
+![Gameplay demonstration](https://github.com/ABerry057/Elemental-Automata/blob/master/EA_demonstration.gif)
+
 # Travis CI Badge
 [![Build Status](https://travis-ci.com/csci312a-s19/fp-automata.svg?token=Vppsohpjy84DqDDTyGDZ&branch=master)](https://travis-ci.com/csci312a-s19/fp-automata)
 # Heroku Build
